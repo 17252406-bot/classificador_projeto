@@ -104,6 +104,6 @@ classificador_projeto/
 Desenvolvido como projeto prático da disciplina **Eletiva**.
 * **Dataset:** Hotel Booking Demand (Kaggle)
 * **Orientação:** Prof. Kelvin Frade Ribeiro
-* **Alunos:** Luiz Claudio Martins
-              Gabriel Normandio
+* **Alunos:** Luiz Claudio Martins / 
+              Gabriel Normandio / 
               Pethrus Souza
